@@ -1,0 +1,11 @@
+h1 {
+    position: absolute;
+    z-index: 1000;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    color: aliceblue;
+    text-align: center;
+    display: block;
+    bottom: 75px;
+}
